@@ -1,0 +1,14 @@
+F:\Personal TSF\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+F:\Personal TSF\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+F:\Personal TSF\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+F:\Personal TSF\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+F:\Personal TSF\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+F:\Personal TSF\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
